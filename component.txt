@@ -1,2 +1,4 @@
 This is my component.
 Added new comp.
+this is a bug fix on release branch
+
