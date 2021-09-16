@@ -1,2 +1,3 @@
 This is my component.
 Added new comp.
+This was added in new branch.
