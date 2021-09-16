@@ -1,1 +1,2 @@
-This is my componenet.
+This is my component.
+Added new comp.
